@@ -1,3 +1,13 @@
+# Timeful with changes to make it easier to self-host
+
+## To-do list
+- [ ] Make a config file for a bunch of settings
+- [ ] Remove ads (config toggle?)
+- [ ] Remove useless site sections for self hosting (like the blog)
+- [ ] Easier maintenance mode toggle (in config)
+
+## Below is the original readme
+** **
 <div align="center">
   
 <img src="./.github/assets/images/logo.svg" width="200px" alt="Timeful logo" />
