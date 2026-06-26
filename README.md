@@ -6,6 +6,10 @@
 - [ ] Remove useless site sections for self hosting (like the blog)
 - [ ] Easier maintenance mode toggle (in config)
 
+
+# Notes (for me)
+- `/frontend/src/store/index.js` contains feature flags, untested ATM
+
 ## Below is the original readme
 ** **
 <div align="center">

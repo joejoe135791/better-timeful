@@ -25,11 +25,11 @@ export default new Vuex.Store({
     featureFlagsLoaded: false,
 
     // Feature flags
-    groupsEnabled: true,
+    groupsEnabled: false,
     signUpFormEnabled: false,
     daysOnlyEnabled: true,
     overlayAvailabilitiesEnabled: true,
-    enablePaywall: true,
+    enablePaywall: false,
 
     // Experiments
     pricingPageConversion: "control",
